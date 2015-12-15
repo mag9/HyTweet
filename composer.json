@@ -1,0 +1,15 @@
+{
+	"name": "dg/twitter-php",
+	"description": "HyTweet",
+	"keywords": ["twitter", "oauth"],
+	"homepage": "mag9.github.io",
+	"license": ["BSD-3-Clause"],
+	"authors": [
+		{
+			"name": "Jeremy Stark"
+		}
+	],
+	"autoload": {
+		"classmap": ["src/"]
+	}
+}
